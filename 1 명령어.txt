@@ -1,0 +1,7 @@
+git init - 처음에 git으로 관리하겠다 이 폴더를! 라는 뜻
+git add "파일명" or . (전체) - local -> staging -> repository
+git commit -m "커밋메시지" - repository로 보내고 하나의 커밋 생성
+
+git reset --hard HEAD^
+git reset --soft HEAD^
+git reset --mixed HEAD^
